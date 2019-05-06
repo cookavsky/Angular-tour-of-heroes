@@ -5,7 +5,11 @@
 * [Getting Started](#getting-started)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Acknowledgments](#acknowledgments)
+* [Development server](#development-server)
+* [Code scaffolding](#code-scaffolding)
+* [Build](#build)
+* [Running unit tests](#running-unit-tests)
+* [Running end-to-end tests](#running-end-to-end-tests)
 * [Status](#status)
 * [Author](#author)
 
